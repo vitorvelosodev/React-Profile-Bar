@@ -1,6 +1,6 @@
 import twitter from './../../assets/Twitter-Icon.png'
 import facebook from './../../assets/Facebook-Icon.png'
-import instagram from './../../assets/instagram-Icon.png'
+import instagram from './../../assets/Instagram-Icon.png'
 import github from './../../assets/Github-Icon.png'
 import './Footer.css'
 
