@@ -1,0 +1,50 @@
+.profile {
+    max-width: 317px;
+    text-align: center;
+}
+
+img {
+    max-width: 317px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+h1 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+h2 {
+    font-size: 0.8rem;
+    color: #F3BF99;
+    font-weight: 400;
+}
+
+h4 {
+    color: #F5F5F5;
+    font-size: 0.65rem;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    margin: 10px 0;
+    border: 0;
+    height: 34px;
+    width: 115px;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
