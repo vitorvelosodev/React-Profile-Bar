@@ -1,0 +1,17 @@
+.about {
+    width: 250px;
+    margin: 33px auto;
+}
+
+h3 {
+    color: #F5F5F5;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+p {
+    font-size: 0.65rem;
+    color: #DCDCDC;
+    margin-top: 5px;
+}

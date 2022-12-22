@@ -6,7 +6,7 @@ import linkedinIcon from '../../assets/linkedin.png'
 export function ProfileInfo() {
     return (
         <div className='profile'>
-            <img src="https://avatars.githubusercontent.com/u/45744031?v=4" alt="Profile Picture" />
+            <img className="profile-pic" src="https://avatars.githubusercontent.com/u/45744031?v=4" alt="Profile Picture" />
             <h1>Vitor Veloso</h1>
             <h2>Front-end Developer</h2>
             <h4>github.io/vitorvelosodev</h4>

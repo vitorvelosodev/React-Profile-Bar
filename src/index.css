@@ -5,4 +5,7 @@
 body {
   font-family: Inter, sans-serif;
   font-size: 16px;
+  display: grid;
+  place-items: center;
+  background-color: #23252C;
 }
