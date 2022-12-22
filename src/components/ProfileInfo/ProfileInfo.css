@@ -13,6 +13,7 @@ h1 {
     font-size: 1.6rem;
     font-weight: 700;
     color: #FFFFFF;
+    margin-top: 20px;
 }
 
 h2 {
@@ -29,6 +30,7 @@ h4 {
 }
 
 .buttons {
+    margin-top: 12px;
     display: flex;
     gap: 20px;
     justify-content: center;
