@@ -11,8 +11,20 @@ export function ProfileInfo() {
             <h2>Front-end Developer</h2>
             <h4>github.io/vitorvelosodev</h4>
             <div className='buttons'>
-                <Button bg='#FFFFFF' icon={mailIcon} fontColor='#black'>Email</Button>
-                <Button bg='#5093E2' icon={linkedinIcon} fontColor='#FFFFFF'>LinkedIn</Button>
+                <Button 
+                    bg='#FFFFFF'
+                    icon={mailIcon}
+                    fontColor='#black'
+                    url='mailto:vitorvelosodev@gmail.com'>
+                        Email
+                </Button>
+                <Button
+                    bg='#5093E2'
+                    icon={linkedinIcon}
+                    fontColor='#FFFFFF'
+                    url='https://www.linkedin.com/in/vitorasv'>
+                        LinkedIn
+                </Button>
             </div>
         </div>
     );

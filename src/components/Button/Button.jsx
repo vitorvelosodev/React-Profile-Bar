@@ -1,8 +1,10 @@
-export function Button({ children, bg, fontColor, icon}) {
+export function Button(props) {
     return (
-        <button style={{backgroundColor: bg, color: fontColor}}>
-            <img src={icon} alt="" />
-            {children}
-        </button>
+        <a style={{backgroundColor: props.bg, color: props.fontColor}} href={props.url}>
+            <img src={props.icon} alt="" />
+            {props.children}
+        </a>
     )
 }
+
+// { children, bg, fontColor, icon }

@@ -8,7 +8,12 @@ function App() {
     <div className='page'>
       <ProfileInfo />
       <About />
-      <Footer />
+      <Footer 
+        twitterUrl='https://www.twitter.com/VitorASV40'
+        facebookUrl='https://www.facebook.com/vitorasv'
+        instagramUrl='https://www.instagram.com/vitorasv'
+        githubUrl='https://vitorvelosodev.github.io'
+      />
     </div>
   );
 }

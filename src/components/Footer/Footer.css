@@ -7,3 +7,8 @@ footer {
     gap: 24px;
     width: 100%;
 }
+
+.link-element {
+    width: 25px;
+    height: 25px;
+}
